@@ -1,7 +1,7 @@
 [project]
 name = "data_sync"
 authors = [
-    { name = "CloudGCS", email = "hello@cloudgcs.com"}
+    { name = "CloudGCS", email = "contact@cloudgcs.com"}
 ]
 description = "Data Sync Framework - Public Placeholder"
 requires-python = ">=3.10"
